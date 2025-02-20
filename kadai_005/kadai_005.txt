@@ -1,8 +1,0 @@
-cd C:\Users\kanam\OneDrive\ドキュメント\git_challenge
-git init
-echo "Hello, World!" > hello_world.txt
-git add hello_world.txt
-git commit -m "Hello, World!"
-git add hello_world.txt
-git commit -m "こんにちは、世界!"
-git log --oneline
